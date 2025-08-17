@@ -25,7 +25,7 @@ const API_SITES = {
     testSource: {
         api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
         name: '电影天堂资源',
-        adult: http://caiji.dyttzyapi.com
+        adult: true
     }
     //ARCHIVE https://telegra.ph/APIs-08-12
 };
